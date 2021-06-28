@@ -1,3 +1,3 @@
-## ReadMe
+## README
 
-[Me](https://cakeisdead.github.io/cakeisdead/)
+[About](https://cakeisdead.github.io/cakeisdead/)
