@@ -7,3 +7,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cakeisdead&show_icons=true&locale=en&layout=compact" alt="cakeisdead" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cakeisdead&" alt="cakeisdead" /></p>
+
+[cakeisdead](https://cakeisdead.github.io/cakeisdead/)
